@@ -10,7 +10,7 @@ This should be a 1.5-2 page write up of the DNA Barcoding work we have done so f
     * Materials and methods 
     * Observations and conclusions
     * Work citied
-2. You must submit submit your report via email to williams@yuhsg.org by the due date. 
+2. You must submit your report via email to williams@yuhsg.org by the due date. 
 3. You may write in either Markdown or using a word processing program like MS Word
 
 
